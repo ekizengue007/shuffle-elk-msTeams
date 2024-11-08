@@ -38,6 +38,10 @@ Diagrama do Projecto
    ![image](https://github.com/user-attachments/assets/433f6dd5-1cbe-47b8-8dc4-8890671f88a1)
    A "message" se encontra em message-teams.json
    
+   Por ultimo temos então o schedule
+   ![image](https://github.com/user-attachments/assets/d60f8c23-a40b-404b-a47f-4f3f0fa6f752)
+   onde 300sec=5 minutos :)
+   
 
 
    
