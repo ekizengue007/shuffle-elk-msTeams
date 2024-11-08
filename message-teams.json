@@ -1,0 +1,6 @@
+Alert "$loop.#._source.signal.rule.name"
+ID do "$loop.#._id"
+Description " $loop.#._source.signal.reason"
+At "(+1h) $loop.#._source.signal.original_time"
+TargetUserName: "$loop.#._source.winlog.event_data.TargetUserName"
+SubjectUser: "$loop.#._source.winlog.event_data.SubjectUserName"
