@@ -36,6 +36,7 @@ Diagrama do Projecto
    https://github.com/Shuffle/python-apps/tree/master/unsupported/microsoft-teams/1.0.0
    Seguindo os passos presentes na documentação e copiando a nossa webhook url temos
    ![image](https://github.com/user-attachments/assets/433f6dd5-1cbe-47b8-8dc4-8890671f88a1)
+   A "message" se encontra em message-teams.json
    
 
 
