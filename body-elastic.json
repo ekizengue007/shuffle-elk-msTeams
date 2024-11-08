@@ -1,0 +1,22 @@
+{
+  "size": 200,
+  "query": {
+    "bool": {
+      "filter": [
+        {
+          "range": {
+            "@timestamp": {
+              "gte": "now-8m",
+              "lt": "now/m"
+            }
+          }
+        },
+        {
+          "match": {
+            "signal.status": "open"
+          }
+        }
+      ]
+    }
+  }
+}
