@@ -23,6 +23,26 @@ Diagrama do Projecto
    Em body
    ![image](https://github.com/user-attachments/assets/16eb7db9-2e7c-408c-b6c6-e5d033ba400d)
    ![image](https://github.com/user-attachments/assets/1edb577f-cc7c-426a-a5b1-ac9018303b2d)
+   Copiar em body-elastic.json
+   Agora vamos em Suffle Tools
+   ![image](https://github.com/user-attachments/assets/7a69bf4e-df90-4d25-8c3d-a05767751682)
+   Name: Filtro_Lista
+   Find Actions : Filter Lister
+   ![image](https://github.com/user-attachments/assets/5cc1c546-f6c3-44c4-b17b-0c7b4ae0dab5)
+   Another Shuffle Tools
+   ![image](https://github.com/user-attachments/assets/89f17697-a3c4-42f4-bc5d-507a7277bcf3)
+
+   Para o MS Teams, recomendo seguir os passos da documentação oficial ;)
+   https://github.com/Shuffle/python-apps/tree/master/unsupported/microsoft-teams/1.0.0
+   Seguindo os passos presentes na documentação e copiando a nossa webhook url temos
+   ![image](https://github.com/user-attachments/assets/433f6dd5-1cbe-47b8-8dc4-8890671f88a1)
+   
+
+
+   
+
+   
+
 
 
 
